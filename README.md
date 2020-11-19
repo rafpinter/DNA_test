@@ -2,9 +2,11 @@
 DNA test to identify sample DNA from a people database
 
 
+
 **USAGE**
 
 "python dna.py data.csv sequence.txt"
+
 
 
 **DATABASE FILE**
@@ -15,6 +17,7 @@ Name, STR1, STR2, STR3,...
 
 Example:
 name,AGATC,TTTTTTCT,AATG,TCTAG,GATA,TATC,GAAA,TCTG
+
 
 **DNA SAMPLE FILE**
 
