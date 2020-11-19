@@ -8,6 +8,7 @@ DNA test to identify sample DNA from a people database
 
 
 **DATABASE FILE**
+
 You must have a database on a csv file containing the name of the person and the repetition number of the respective STR region:
 
 Name, STR1, STR2, STR3,...
