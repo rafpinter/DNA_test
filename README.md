@@ -15,7 +15,7 @@ You must have a database on a csv file containing the name of the person and the
 
 Name, STR1, STR2, STR3,...
 
-Example:
+Example:  
 name,AGATC,TTTTTTCT,AATG,TCTAG,GATA,TATC,GAAA,TCTG  
 rafaela,3,2,5,4,10,7,2,9  
 john,1,2,3,4,5,6,7,8  
