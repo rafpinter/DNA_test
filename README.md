@@ -16,12 +16,9 @@ You must have a database on a csv file containing the name of the person and the
 Name, STR1, STR2, STR3,...
 
 Example:
-name,AGATC,TTTTTTCT,AATG,TCTAG,GATA,TATC,GAAA,TCTG
-
-rafaela,3,2,5,4,10,7,2,9
-
-jonh,1,2,3,4,5,6,7,8
-
+name,AGATC,TTTTTTCT,AATG,TCTAG,GATA,TATC,GAAA,TCTG  
+rafaela,3,2,5,4,10,7,2,9  
+jonh,1,2,3,4,5,6,7,8  
 maria,8,7,6,5,4,3,2,1
 
 **DNA SAMPLE FILE**
